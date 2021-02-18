@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f44c6bdd-08d9-407f-aadc-f998b7631781" name="Default Changelist" comment="" />
+    <list default="true" id="f44c6bdd-08d9-407f-aadc-f998b7631781" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/18_00/Alina" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/18_00/Oksana" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/20_00/Alex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/20_00/Igor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/20_00/Viktor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/Alex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/Alina.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/Igor.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/Oksana.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork_1/Viktor.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ocrQcfciNm3izdHMDCxH0acWUn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,7 +42,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practics" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -39,10 +56,25 @@
       <updated>1613596705123</updated>
       <workItem from="1613596706244" duration="26000" />
       <workItem from="1613650967722" duration="718000" />
+      <workItem from="1613664009701" duration="124000" />
+      <workItem from="1613664390763" duration="215000" />
+      <workItem from="1613664607238" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

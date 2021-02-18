@@ -16,15 +16,17 @@ function getFiles(dir, files_) {
 
 const result = getFiles(`${__dirname}/dir1`);
 
-result.forEach(el => {
-    fs.stat(el, (err, stat) => {
-        if (err) console.log(err);
-        if (stat.isFile()) {
-            let fileNameArr = el.split('/');
-            let fileName = fileNameArr[fileNameArr.length - 1]
-            fs.rename(el, `${__dirname}/${fileName}`, err1 => {
-                if (err) console.log(err);
-            })
-        }
-    })
-})
+console.log(result);
+
+// result.forEach(el => {
+//     fs.stat(el, (err, stat) => {
+//         if (err) console.log(err);
+//         if (stat.isFile()) {
+//             let fileNameArr = el.split('/');
+//             let fileName = fileNameArr[fileNameArr.length - 1]
+//             fs.rename(el, `${__dirname}/${fileName}`, err1 => {
+//                 if (err) console.log(err);
+//             })
+//         }
+//     })
+// })
