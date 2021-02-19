@@ -1,0 +1,7 @@
+{
+  "name": "task2",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra": "^9.1.0"
+  }
+}
